@@ -1,6 +1,6 @@
 📌 About the Project
 
-This project is an AI-powered web-based math solver that allows users to write or draw mathematical equations naturally on a digital canvas. Unlike traditional typed-input math tools, our solution leverages handwriting recognition technology to interpret equations accurately and provide instant feedback and solutions.
+This project is an AI-powered web-based math solver that allows users to write or draw mathematical equations naturally on a digital canvas. Unlike traditional typed-input math tools, our solution leverages handwriting recognition technology to interpret equations accurately and provide instant feedback and solutions. 
 
 
 
